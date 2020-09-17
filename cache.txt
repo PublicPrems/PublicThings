@@ -1,0 +1,5 @@
+Günümz iþletim sistemi scheduler yapýlarý iþlemcinin adil kullanýmý üzerine
+yoðunlaþtýklarýndan cachelerin etkin kullanýmý ikinci plana atýlmýþtýr.
+
+Adacýklarýn grup içerisinde birbirine baðlý olmalarý eðer ortak cache 
+bulunduran çekirdeklere yerleþme durumlarý olursa daha efektif çalýþabilirler
